@@ -1,6 +1,6 @@
 package arrays;
 
-public interface ReverseArray {
+public class ReverseArray {
     public static void main(String[] args) {
 
     }
